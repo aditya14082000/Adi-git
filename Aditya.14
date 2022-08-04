@@ -1,0 +1,11 @@
+namespace FoodieCorner
+{
+  public class Cake
+  {
+    public static void Main(string[] args)
+    {
+      int a = 22;
+      Console.WriteLine("Your age is" + a);
+    }
+  }
+}
